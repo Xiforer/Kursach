@@ -1,0 +1,15 @@
+D:\Проги\DB_Lombard\DB_Lombard\bin\Debug\DB_Lombard.exe.config
+D:\Проги\DB_Lombard\DB_Lombard\bin\Debug\DB_Lombard.exe
+D:\Проги\DB_Lombard\DB_Lombard\bin\Debug\DB_Lombard.pdb
+D:\Проги\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.csprojResolveAssemblyReference.cache
+D:\Проги\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.Form.resources
+D:\Проги\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.Properties.Resources.resources
+D:\Проги\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.csproj.GenerateResource.Cache
+D:\Проги\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.exe
+D:\Проги\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.pdb
+D:\DB_Lombard\DB_Lombard\bin\Debug\DB_Lombard.exe.config
+D:\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.exe
+D:\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.pdb
+F:\DB_Lombard\DB_Lombard\bin\Debug\DB_Lombard.exe.config
+F:\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.exe
+F:\DB_Lombard\DB_Lombard\obj\Debug\DB_Lombard.pdb
